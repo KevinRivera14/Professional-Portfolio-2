@@ -13,11 +13,11 @@ Built With:
 
 Website
 
-contribution 
+contribution:
+https://www.youtube.com/watch?v=_xkSvufmjEs referenced this code. 
 
 
-![portfolio screen shot](./images /portfolio Screen shot.png) 
-![portfolio screen shot](./images /portfolio Screen Shot #2.png) 
-
+ <img src="./images /Name Game.png" alt="Name game Screen Shot" class="portfolio__img">
+<img src="./images /Penguin Planner.png" alt="Penguin Planner Screen Shot" class="portfolio__img">
 
 created by [Kevin Rivera] 
